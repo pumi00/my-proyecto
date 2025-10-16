@@ -26,9 +26,9 @@ Aqui en este trabajo vamos a crear varios `.txt` y integrarlos dentro de unas ra
 #### ***Objetivos***. <a name="id2"></a>
 
   1. Crear un README.md principal en el cual vamos a explicar los pasos.
-  
+
   ![img](/img/imagen1.png)
-  
+
   2. Ignorar distintos archivos para nuestro control de versiones.
   3. Añadimos varios ficheros y tag para complementar nuestro proyecto.
   4. Subimos todos nuestros cambios para que nuestro repositorio local y remoto esten en las mismas versiones.
